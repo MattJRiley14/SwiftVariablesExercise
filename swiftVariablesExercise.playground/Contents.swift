@@ -34,3 +34,5 @@ print(number) // 10
 var nums = [1, 8, 9]
 //var nums: Array = [1, 8, 9]
 print(nums) // [1, 8, 9]
+
+// END OF EXERCISE
